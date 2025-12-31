@@ -15,56 +15,56 @@
             "name": "Physical Clocks, NTP, and variations",
             "short-name": "physical-clocks-ntp",
             "repo": "https://github.com/virtual-labs/exp-physical-clocks-iiith",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         },
         {
             "name": "Scalar Logical Time",
             "short-name": "scalar-logical-time",
             "repo": "https://github.com/virtual-labs/exp-scalar-logical-time-iiith",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         },
         {
             "name": "Vector Logical Time",
             "short-name": "vector-logical-time",
             "repo": "https://github.com/virtual-labs/exp-vector-logical-time-iiith",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         },
         {
             "name": "Computing π",
             "short-name": "computing-pi",
             "repo": "https://github.com/virtual-labs/exp-computing-pi-iiith",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         },
         {
             "name": "Matrix Multiplication",
             "short-name": "matrix-multiplication",
             "repo": "https://github.com/virtual-labs/exp-matrix-multiplication-iiith",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         },
         {
             "name": "Sorting using MapReduce",
             "short-name": "sorting-mapreduce",
             "repo": "https://github.com/virtual-labs/exp-sorting-systems-iiith",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         },
         {
             "name": "MST via Boruvka",
             "short-name": "mst-boruvka",
             "repo": "https://github.com/virtual-labs/exp-minimum-spanning-tree-iiith",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         },
         {
             "name": "Lamport Mutual Exclusion Algorithm",
             "short-name": "lamport-mutual-exclusion",
             "repo": "https://github.com/virtual-labs/exp-lamports-algorithm-iiith",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         }
     ],
